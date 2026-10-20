@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Adham Hussein - Adham443-pixel@security:~$
 
-<!--
-**Adham443-pixel/Adham443-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Aspiring Penetration Tester | PNPT in Progress | Network & AD Security Enthusiast
 
-Here are some ideas to get you started:
+I'm a cybersecurity student from Damietta, Egypt, focused on **Offensive Security**. Currently grinding through TCM Security's PNPT path - learning to think like an attacker to defend better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌐 Portfolio:** https://adham443-pixel.github.io
+**💼 LinkedIn:** https://www.linkedin.com/in/adham-hussein-296139440
+**📧 Contact:** a71148115@gmail.com
+
+---
+
+🛠️ What I'm Building
+- **whale-analyzer** - DNS tracker to hunt ad companies and privacy leaks `Python | DNS`
+- **PBPT Lab Writeups** - Documenting my practical learning journey
+- **Port Scanner (WIP)** - Next project while learning networking
+
+🎯 Current Focus
+`
+> Learning: Active Directory, Network Penetration, Python for Security
+> Practicing: TryHackMe, TCM Labs, CTFs
+> Goal: PNPT Certified -> Junior Pentester Role
+> Location: Damietta, Egypt [OPEN TO INTERNSHIPS]
+`
+
+📊 GitHub Stats
+Learning in public - Every commit is a step forward.
+
+---
+"The quieter you become, the more you are able to hear" - Focus, Learn, Pwn
