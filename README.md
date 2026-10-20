@@ -1,4 +1,4 @@
-![Banner](banner.gif)
+![Banner](grok_1792493222882.gif)
 
 
 Hi, I'm Adham Hussein - Adham443-pixel@security:~$
