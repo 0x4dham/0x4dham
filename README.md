@@ -16,12 +16,12 @@ I'm a cybersecurity student from Damietta, Egypt, focused on **Offensive Securit
 - **Port Scanner (WIP)** - Next project while learning networking
 
 🎯 Current Focus
-`
+```
 > Learning: Active Directory, Network Penetration, Python for Security
 > Practicing: TryHackMe, TCM Labs, CTFs
 > Goal: PNPT Certified -> Junior Pentester Role
 > Location: Damietta, Egypt [OPEN TO INTERNSHIPS]
-`
+```
 
 📊 GitHub Stats
 Learning in public - Every commit is a step forward.
