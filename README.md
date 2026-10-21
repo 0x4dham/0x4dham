@@ -1,13 +1,13 @@
 ![Banner](grok_1792493222882.gif)
 
 
-Hi, I'm Adham Hussein - 0x4dham@security:~$
+Hi, I'm Adham Hussein - 4dham@security:~$
 
 > Aspiring Penetration Tester | PNPT in Progress | Network & AD Security Enthusiast
 
 I'm a cybersecurity student from Damietta, Egypt, focused on **Offensive Security**. Currently grinding through TCM Security's PNPT path - learning to think like an attacker to defend better.
 
-**🌐 Portfolio:** https://0x4dham.github.io
+**🌐 Portfolio:** https://4dham.github.io
 **💼 LinkedIn:** https://www.linkedin.com/in/adham-hussein-296139440
 **📧 Contact:** a71148115@gmail.com
 
