@@ -1,7 +1,7 @@
 ![Banner](grok_1792493222882.gif)
 
 
-Hi, I'm Adham Hussein - 4dham@security:~$
+root@adham:~# whoami - 4dham@security:~$
 
 > Aspiring Penetration Tester | PNPT in Progress | Network & AD Security Enthusiast
 
