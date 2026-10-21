@@ -29,5 +29,9 @@ I'm a cybersecurity student from Damietta, Egypt, focused on **Offensive Securit
 📊 GitHub Stats
 Learning in public - Every commit is a step forward.
 
+### 🏆 TryHackMe
+
+![TryHackMe Badge](./assets/thm-badge.png)
+
 ---
 "The quieter you become, the more you are able to hear" - Focus, Learn, Pwn
