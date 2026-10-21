@@ -1,7 +1,7 @@
 ![Banner](grok_1792493222882.gif)
 
 
-```bash
+bash
 root@adham:~# whoami
 4dham | Aspiring Penetration Tester | PNPT in Progress
 Network & AD Security Enthusiast
