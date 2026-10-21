@@ -1,7 +1,7 @@
 ![Banner](grok_1792493222882.gif)
 
 
-root@adham:~# whoami. 
+root@adham:~# whoami
 
 4dham@security:~$
 
