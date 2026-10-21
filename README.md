@@ -1,12 +1,14 @@
 ![Banner](grok_1792493222882.gif)
 
 
-root@adham:~#whoami 
-            4dham@security:~$
+```bash
+root@adham:~# whoami
+4dham | Aspiring Penetration Tester | PNPT in Progress
+Network & AD Security Enthusiast
 
-> Aspiring Penetration Tester | PNPT in Progress | Network & AD Security Enthusiast
-
-I'm a cybersecurity student from Damietta, Egypt, focused on **Offensive Security**. Currently grinding through TCM Security's PNPT path - learning to think like an attacker to defend better.
+root@adham:~# cat about.txt
+I'm a cybersecurity student from Damietta, Egypt, focused on Offensive Security.
+Currently grinding through TCM Security's PNPT path - learning to think like an attacker to defend better.
 
 **🌐 Portfolio:** https://4dham.github.io
 **💼 LinkedIn:** https://www.linkedin.com/in/adham-hussein-296139440
