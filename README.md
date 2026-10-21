@@ -2,7 +2,6 @@
 
 
 root@adham:~# whoami
-
 4dham@security:~$
 
 > Aspiring Penetration Tester | PNPT in Progress | Network & AD Security Enthusiast
