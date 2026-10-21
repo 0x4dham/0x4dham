@@ -10,12 +10,11 @@ I'm a cybersecurity student from Damietta, Egypt, focused on **Offensive Securit
 **🌐 Portfolio:** https://4dham.github.io
 **💼 LinkedIn:** https://www.linkedin.com/in/adham-hussein-296139440
 **📧 Contact:** a71148115@gmail.com
-### 📝 Latest: [TryHackMe Writeups - Top 9%](https://github.com/4dham/tryhackme-writeups) - My live hacking journey
 ---
 
 🛠️ What I'm Building
 - **whale-analyzer** - DNS tracker to hunt ad companies and privacy leaks `Python | DNS`
-- **PBPT Lab Writeups** - Documenting my practical learning journey
+- **PBPT Lab Writeups** ### 📝 Latest: [TryHackMe Writeups - Top 9%](https://github.com/4dham/tryhackme-writeups) - My live hacking journey - Documenting my practical learning journey
 - **Port Scanner (WIP)** - Next project while learning networking
 
 🎯 Current Focus
