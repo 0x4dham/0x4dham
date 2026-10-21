@@ -1,8 +1,10 @@
 name: TryHackMe Update Badge
+
 on:
-  schedule:
-    - cron: "0 * * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
 jobs:
   update-badge:
     runs-on: ubuntu-latest
@@ -10,14 +12,20 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+
       - name: Fetch Badge
         run: |
-          mkdir -p assets
-          curl -L -o assets/thm-badge.png https://tryhackme-badges.s3.amazonaws.com/4dham.png
+          curl -sL https://tryhackme-badges.s3.amazonaws.com/4dham.png -o assets/thm-badge.png
+          ls -lh assets/thm-badge.png
+          file assets/thm-badge.png
+
       - name: Commit Badge
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git stash push -m "badge" --keep-index
           git pull --rebase
+          git stash pop || true
           git add assets/thm-badge.png
-          git diff --staged --quiet || (git commit -m "Update THM badge" && git push)
+          git diff --staged --quiet || git commit -m "Update THM badge"
+          git push
